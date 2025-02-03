@@ -11,21 +11,21 @@
     "href": "about.html",
     "title": "Brendan Ames",
     "section": "",
-    "text": "I am an Associate Professor in Operational Research in the Department of Mathematical Sciences at the University of Southampton, UK.\nPrior to joining the University of Southampton in January 2024, I was a member of faculty in the Department of Mathematics at the University of Alabama from Sept 2014–Dec 2023. I also held postdoctoral positions at the California Institute of Technology and the Institute for Mathematics and its Applications at the University of Minnesota. I completed my doctorate under the supervision of Dr. Stephen Vavasis in 2011 at the University of Waterloo."
+    "text": "I am an Associate Professor in Operational Research in the Department of Mathematical Sciences at the University of Southampton, UK.\nPrior to joining the University of Southampton in January 2024, I was a member of faculty in the Department of Mathematics at the University of Alabama from Sept 2014–Dec 2023. I also held postdoctoral positions at the California Institute of Technology and the Institute for Mathematics and its Applications at the University of Minnesota. I completed my PhD in Combinatorics and Optimization under the supervision of Dr. Stephen Vavasis in 2011 at the University of Waterloo after completing an MSc in Applied Mathematics with Dr. Hristo Sendov at the University of Guelph."
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "My research focuses on the analysis of combinatorial optimization problems arising in machine learning and high-dimensional statistics. This includes:\n\nThe design and implementation of novel optimization algorithms;\nStudy of the optimization landscape of model problems and sufficient conditions for perfect recovery of structures within data;\nApplications in planetary science, astrophysics, geochemistry, biomedical analysis, neuroscience, and sports analytics.\n\nA collection of my journal articles and preprints can be found on my Google Scholar profile and my ORCiD profile.\nI contributed to the development of that accSDA and admmDensestSubmatrix R packages. A selection of other software (primarily Matlab and Python) can be found in my Github repository."
+    "text": "My research focuses on the analysis of combinatorial optimization problems arising in machine learning and high-dimensional statistics. This includes:\n\nThe design and implementation of novel optimization algorithms;\nStudy of the optimization landscape of model problems and sufficient conditions for perfect recovery of structures within data;\nApplications in planetary science, astrophysics, geochemistry, biomedical analysis, neuroscience, and sports analytics."
   },
   {
     "objectID": "about.html#brief-bio",
     "href": "about.html#brief-bio",
     "title": "Brendan Ames",
     "section": "",
-    "text": "I am an Associate Professor in Operational Research in the Department of Mathematical Sciences at the University of Southampton, UK.\nPrior to joining the University of Southampton in January 2024, I was a member of faculty in the Department of Mathematics at the University of Alabama from Sept 2014–Dec 2023. I also held postdoctoral positions at the California Institute of Technology and the Institute for Mathematics and its Applications at the University of Minnesota. I completed my doctorate under the supervision of Dr. Stephen Vavasis in 2011 at the University of Waterloo."
+    "text": "I am an Associate Professor in Operational Research in the Department of Mathematical Sciences at the University of Southampton, UK.\nPrior to joining the University of Southampton in January 2024, I was a member of faculty in the Department of Mathematics at the University of Alabama from Sept 2014–Dec 2023. I also held postdoctoral positions at the California Institute of Technology and the Institute for Mathematics and its Applications at the University of Minnesota. I completed my PhD in Combinatorics and Optimization under the supervision of Dr. Stephen Vavasis in 2011 at the University of Waterloo after completing an MSc in Applied Mathematics with Dr. Hristo Sendov at the University of Guelph."
   },
   {
     "objectID": "about.html#contact",
@@ -40,5 +40,26 @@
     "title": "Teaching",
     "section": "",
     "text": "I am teaching the following modules during the 2024/25 school year:\n\nMath 6183 Data Mining and Analytics\nMath 2014 Algorithms"
+  },
+  {
+    "objectID": "research.html#overview",
+    "href": "research.html#overview",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses on the analysis of combinatorial optimization problems arising in machine learning and high-dimensional statistics. This includes:\n\nThe design and implementation of novel optimization algorithms;\nStudy of the optimization landscape of model problems and sufficient conditions for perfect recovery of structures within data;\nApplications in planetary science, astrophysics, geochemistry, biomedical analysis, neuroscience, and sports analytics."
+  },
+  {
+    "objectID": "research.html#articles-and-preprints",
+    "href": "research.html#articles-and-preprints",
+    "title": "Research",
+    "section": "Articles and Preprints",
+    "text": "Articles and Preprints\nA collection of my journal articles and preprints can be found on my Google Scholar profile and my ORCiD profile."
+  },
+  {
+    "objectID": "research.html#software",
+    "href": "research.html#software",
+    "title": "Research",
+    "section": "Software",
+    "text": "Software\nI contributed to the development of that accSDA and admmDensestSubmatrix R packages. A selection of other software (primarily Matlab and Python) can be found in my Github repository."
   }
 ]
