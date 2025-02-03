@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Brendan Ames",
+    "section": "",
+    "text": "Hi! I am an Associate Professor in Operational Research in the Department of Mathematical Sciences at the University of Southampton, UK.\nMy research focuses on the intersection of optimization, statistics, and machine learning.\nPlease use the navigation buttons to find more details."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Brendan Ames",
+    "section": "",
+    "text": "I am an Associate Professor in Operational Research in the Department of Mathematical Sciences at the University of Southampton, UK.\nPrior to joining the University of Southampton in January 2024, I was a member of faculty in the Department of Mathematics at the University of Alabama from Sept 2014–Dec 2023. I also held postdoctoral positions at the California Institute of Technology and the Institute for Mathematics and its Applications at the University of Minnesota. I completed my doctorate under the supervision of Dr. Stephen Vavasis in 2011 at the University of Waterloo."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses on the analysis of combinatorial optimization problems arising in machine learning and high-dimensional statistics. This includes:\n\nThe design and implementation of novel optimization algorithms;\nStudy of the optimization landscape of model problems and sufficient conditions for perfect recovery of structures within data;\nApplications in planetary science, astrophysics, geochemistry, biomedical analysis, neuroscience, and sports analytics.\n\nA collection of my journal articles and preprints can be found on my Google Scholar profile and my ORCiD profile.\nI contributed to the development of that accSDA and admmDensestSubmatrix R packages. A selection of other software (primarily Matlab and Python) can be found in my Github repository."
+  },
+  {
+    "objectID": "about.html#brief-bio",
+    "href": "about.html#brief-bio",
+    "title": "Brendan Ames",
+    "section": "",
+    "text": "I am an Associate Professor in Operational Research in the Department of Mathematical Sciences at the University of Southampton, UK.\nPrior to joining the University of Southampton in January 2024, I was a member of faculty in the Department of Mathematics at the University of Alabama from Sept 2014–Dec 2023. I also held postdoctoral positions at the California Institute of Technology and the Institute for Mathematics and its Applications at the University of Minnesota. I completed my doctorate under the supervision of Dr. Stephen Vavasis in 2011 at the University of Waterloo."
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "Brendan Ames",
+    "section": "Contact",
+    "text": "Contact\nEmail: b.ames@soton.ac.uk\nOffice: Building 54, Room 11007\nPost: Building 54 Mathematical Sciences, University of Southampton, Southampton, SO17 1BJ, UK"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I am teaching the following modules during the 2024/25 school year:\n\nMath 6183 Data Mining and Analytics\nMath 2014 Algorithms"
+  }
+]
